@@ -51,6 +51,42 @@
 			"type": "script",
 			"path": "script/scenes/ResultScene.js",
 			"global": true
+		},
+		"bonnnou": {
+			"type": "image",
+			"width": 256,
+			"height": 256,
+			"path": "image/bonnnou.png"
+		},
+		"bouzu": {
+			"type": "image",
+			"width": 506,
+			"height": 800,
+			"path": "image/bouzu.png"
+		},
+		"toku": {
+			"type": "image",
+			"width": 256,
+			"height": 256,
+			"path": "image/toku.png"
+		},
+		"chin": {
+			"type": "audio",
+			"path": "audio/chin",
+			"systemId": "sound",
+			"duration": 1614
+		},
+		"kane": {
+			"type": "audio",
+			"path": "audio/kane",
+			"systemId": "sound",
+			"duration": 3680
+		},
+		"poku": {
+			"type": "audio",
+			"path": "audio/poku",
+			"systemId": "sound",
+			"duration": 201
 		}
 	},
 	"environment": {
